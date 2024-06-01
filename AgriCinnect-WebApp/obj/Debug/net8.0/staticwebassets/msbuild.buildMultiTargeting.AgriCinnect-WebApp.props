@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AgriCinnect-WebApp.props" />
+</Project>
